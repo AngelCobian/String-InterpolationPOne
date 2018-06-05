@@ -8,7 +8,7 @@ styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
 title = 'app';
-// creating new people. Using the method shown to us on firday?
+// creating new people. Using the method shown to us on yesterday? i'm not sure.
 hello: Person[] = [
   new Person('Mrs/Mr','hello','World',''),
   new Person('Mr/Mrs', 'World', 'Hello', 'Coalinga')
